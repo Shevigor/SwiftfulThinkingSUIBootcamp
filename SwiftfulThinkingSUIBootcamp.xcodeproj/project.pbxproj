@@ -13,6 +13,8 @@
 		CE64E2672A66698500143A63 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE64E2662A66698500143A63 /* Preview Assets.xcassets */; };
 		CE64E26E2A66849700143A63 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E26D2A66849700143A63 /* TextBootcamp.swift */; };
 		CE64E2702A668B7E00143A63 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E26F2A668B7E00143A63 /* ShapesBootcamp.swift */; };
+		CE64E2722A66C2BF00143A63 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2712A66C2BF00143A63 /* ColorsBootcamp.swift */; };
+		CE64E2742A66D27300143A63 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2732A66D27300143A63 /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		CE64E2662A66698500143A63 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE64E26D2A66849700143A63 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		CE64E26F2A668B7E00143A63 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		CE64E2712A66C2BF00143A63 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		CE64E2732A66D27300143A63 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				CE64E2612A66698400143A63 /* ContentView.swift */,
 				CE64E26D2A66849700143A63 /* TextBootcamp.swift */,
 				CE64E26F2A668B7E00143A63 /* ShapesBootcamp.swift */,
+				CE64E2712A66C2BF00143A63 /* ColorsBootcamp.swift */,
+				CE64E2732A66D27300143A63 /* GradientsBootcamp.swift */,
 				CE64E2632A66698500143A63 /* Assets.xcassets */,
 				CE64E2652A66698500143A63 /* Preview Content */,
 			);
@@ -143,6 +149,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE64E2742A66D27300143A63 /* GradientsBootcamp.swift in Sources */,
+				CE64E2722A66C2BF00143A63 /* ColorsBootcamp.swift in Sources */,
 				CE64E2702A668B7E00143A63 /* ShapesBootcamp.swift in Sources */,
 				CE64E2622A66698400143A63 /* ContentView.swift in Sources */,
 				CE64E26E2A66849700143A63 /* TextBootcamp.swift in Sources */,
