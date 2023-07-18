@@ -11,6 +11,7 @@
 		CE64E2622A66698400143A63 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2612A66698400143A63 /* ContentView.swift */; };
 		CE64E2642A66698500143A63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE64E2632A66698500143A63 /* Assets.xcassets */; };
 		CE64E2672A66698500143A63 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE64E2662A66698500143A63 /* Preview Assets.xcassets */; };
+		CE64E26E2A66849700143A63 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E26D2A66849700143A63 /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CE64E2612A66698400143A63 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CE64E2632A66698500143A63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE64E2662A66698500143A63 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CE64E26D2A66849700143A63 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CE64E25F2A66698400143A63 /* SwiftfulThinkingSUIBootcampApp.swift */,
 				CE64E2612A66698400143A63 /* ContentView.swift */,
+				CE64E26D2A66849700143A63 /* TextBootcamp.swift */,
 				CE64E2632A66698500143A63 /* Assets.xcassets */,
 				CE64E2652A66698500143A63 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE64E2622A66698400143A63 /* ContentView.swift in Sources */,
+				CE64E26E2A66849700143A63 /* TextBootcamp.swift in Sources */,
 				CE64E2602A66698400143A63 /* SwiftfulThinkingSUIBootcampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,6 +279,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +309,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
