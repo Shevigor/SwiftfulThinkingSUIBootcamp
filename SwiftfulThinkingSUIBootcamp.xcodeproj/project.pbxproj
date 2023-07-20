@@ -21,6 +21,8 @@
 		CE64E2722A66C2BF00143A63 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2712A66C2BF00143A63 /* ColorsBootcamp.swift */; };
 		CE64E2742A66D27300143A63 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2732A66D27300143A63 /* GradientsBootcamp.swift */; };
 		CE64E2762A66DA0C00143A63 /* IconBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE64E2752A66DA0C00143A63 /* IconBootcamp.swift */; };
+		CE997C622A691E6300EECBCD /* Init_EnumBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE997C612A691E6300EECBCD /* Init_EnumBootcamp.swift */; };
+		CE997C642A692DF400EECBCD /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE997C632A692DF400EECBCD /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +41,8 @@
 		CE64E2712A66C2BF00143A63 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		CE64E2732A66D27300143A63 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		CE64E2752A66DA0C00143A63 /* IconBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootcamp.swift; sourceTree = "<group>"; };
+		CE997C612A691E6300EECBCD /* Init_EnumBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Init_EnumBootcamp.swift; sourceTree = "<group>"; };
+		CE997C632A692DF400EECBCD /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				CE5B43252A6810CB0088EA64 /* BackgroundAndOverlay.swift */,
 				CE5B43272A68242A0088EA64 /* HVZ_StacksBootcamp.swift */,
 				CE5B43292A682E410088EA64 /* PaddingAndSpacer.swift */,
+				CE997C612A691E6300EECBCD /* Init_EnumBootcamp.swift */,
+				CE997C632A692DF400EECBCD /* ForEachBootcamp.swift */,
 				CE64E2632A66698500143A63 /* Assets.xcassets */,
 				CE64E2652A66698500143A63 /* Preview Content */,
 			);
@@ -172,11 +178,13 @@
 				CE64E2722A66C2BF00143A63 /* ColorsBootcamp.swift in Sources */,
 				CE5B43242A680AA80088EA64 /* FrameBootcamp.swift in Sources */,
 				CE5B43282A68242A0088EA64 /* HVZ_StacksBootcamp.swift in Sources */,
+				CE997C622A691E6300EECBCD /* Init_EnumBootcamp.swift in Sources */,
 				CE459CE12A67BF0E00A1FD20 /* ImagesBootcamp.swift in Sources */,
 				CE5B43262A6810CB0088EA64 /* BackgroundAndOverlay.swift in Sources */,
 				CE64E2762A66DA0C00143A63 /* IconBootcamp.swift in Sources */,
 				CE64E2702A668B7E00143A63 /* ShapesBootcamp.swift in Sources */,
 				CE64E2622A66698400143A63 /* ContentView.swift in Sources */,
+				CE997C642A692DF400EECBCD /* ForEachBootcamp.swift in Sources */,
 				CE64E26E2A66849700143A63 /* TextBootcamp.swift in Sources */,
 				CE64E2602A66698400143A63 /* SwiftfulThinkingSUIBootcampApp.swift in Sources */,
 			);
