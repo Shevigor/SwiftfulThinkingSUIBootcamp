@@ -12,7 +12,7 @@ struct SwiftfulThinkingSUIBootcampApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            AlertsBootcamp()
+            TextFieldBootcamp()
         }
     }
 }
